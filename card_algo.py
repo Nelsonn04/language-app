@@ -8,5 +8,13 @@ import json
 # Opens the JSON file with all the flashcard information and loads it
 with open("flashcards.json", "r", encoding="utf-8") as file:
     flashcards = json.load(file)
+study_set = []
+for card in flashcards:
+    if card["last_reviewed"] is None:
+        study_set.append(card)
 
-print(flashcards)
+
+def cards_due():
+    print(study_set)
+
+cards_due()
