@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "language": "es",
+    "word": "ser",
+    "english": "to be (permanent traits)",
+    "example": "Ella es mi hermana.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 2,
+    "language": "es",
+    "word": "estar",
+    "english": "to be (states, location)",
+    "example": "Estoy en casa.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 3,
+    "language": "es",
+    "word": "tener",
+    "english": "to have",
+    "example": "Tengo dos perros.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 4,
+    "language": "es",
+    "word": "hacer",
+    "english": "to do / to make",
+    "example": "¿Qué haces hoy?",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 5,
+    "language": "es",
+    "word": "poder",
+    "english": "to be able to / can",
+    "example": "No puedo ir mañana.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 6,
+    "language": "es",
+    "word": "decir",
+    "english": "to say / to tell",
+    "example": "Él dice la verdad.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 7,
+    "language": "es",
+    "word": "ir",
+    "english": "to go",
+    "example": "Vamos a la playa.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 8,
+    "language": "es",
+    "word": "ver",
+    "english": "to see",
+    "example": "Veo el mar desde aquí.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 9,
+    "language": "es",
+    "word": "querer",
+    "english": "to want / to love",
+    "example": "Quiero un café.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 10,
+    "language": "es",
+    "word": "saber",
+    "english": "to know (facts)",
+    "example": "No sé su nombre.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 11,
+    "language": "es",
+    "word": "tiempo",
+    "english": "time / weather",
+    "example": "No tengo tiempo.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 12,
+    "language": "es",
+    "word": "día",
+    "english": "day",
+    "example": "Hoy es un buen día.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 13,
+    "language": "es",
+    "word": "casa",
+    "english": "house / home",
+    "example": "Mi casa es pequeña.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 14,
+    "language": "es",
+    "word": "hombre",
+    "english": "man",
+    "example": "El hombre lee el periódico.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 15,
+    "language": "es",
+    "word": "mujer",
+    "english": "woman / wife",
+    "example": "La mujer trabaja aquí.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 16,
+    "language": "es",
+    "word": "año",
+    "english": "year",
+    "example": "Este año viajo a España.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 17,
+    "language": "es",
+    "word": "vez",
+    "english": "time (occurrence)",
+    "example": "Lo hago una vez a la semana.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 18,
+    "language": "es",
+    "word": "cosa",
+    "english": "thing",
+    "example": "Es una cosa importante.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 19,
+    "language": "es",
+    "word": "bueno",
+    "english": "good",
+    "example": "Es un libro bueno.",
+    "box": 1,
+    "last_reviewed": null
+  },
+  {
+    "id": 20,
+    "language": "es",
+    "word": "mucho",
+    "english": "a lot / much",
+    "example": "Me gusta mucho.",
+    "box": 1,
+    "last_reviewed": null
+  }
+]
